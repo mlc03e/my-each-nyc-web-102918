@@ -5,6 +5,6 @@ def my_each(collection) # put argument(s) here
     i = i + 1
     collection.collect do |collection|
 
-end
-end
+    end
+  end
 end
